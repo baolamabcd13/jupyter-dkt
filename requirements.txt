@@ -1,0 +1,14 @@
+jupyter
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+plotly
+statsmodels
+mlxtend
+ipywidgets
+nbformat 
+networkx
